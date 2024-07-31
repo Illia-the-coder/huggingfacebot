@@ -8,7 +8,7 @@ class HfSpiderSpider(scrapy.Spider):
 
     def start_requests(self):
         # Відкриваємо файл з URL профілів
-        with open('./hf_profiles_urls.txt', 'r') as file:
+        with open('./huggingface/spiders/hf_profiles_urls.txt', 'r') as file:
             urls = file.read().splitlines()
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
