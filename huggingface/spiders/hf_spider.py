@@ -8,7 +8,8 @@ class HfSpiderSpider(scrapy.Spider):
 
     def start_requests(self):
         # URL to the text file containing profile URLs
-        url = 'https://raw.githubusercontent.com/Illia-the-coder/huggingfacebot/master/huggingface/spiders/hf_profiles_urls.txt'
+        # url = 'https://raw.githubusercontent.com/Illia-the-coder/huggingfacebot/master/huggingface/spiders/hf_profiles_urls.txt'
+        url = 'https://content.freelancehunt.com/message/eb213/f9180/4066542/hf_profiles_1k.txt'
         page = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
         urls = page.text.splitlines()
         for url in urls:
