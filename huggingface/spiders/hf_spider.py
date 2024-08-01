@@ -1,5 +1,5 @@
 import scrapy
-
+import requests
 
 class HfSpiderSpider(scrapy.Spider):
     name = "hf_spider"
@@ -8,8 +8,9 @@ class HfSpiderSpider(scrapy.Spider):
 
     def start_requests(self):
         # Відкриваємо файл з URL профілів
-        with open('https://raw.githubusercontent.com/Illia-the-coder/huggingfacebot/master/huggingface/spiders/hf_profiles_urls.txt', 'r') as file:
-            urls = file.read().splitlines()
+        url = 'https://raw.githubusercontent.com/Illia-the-coder/huggingfacebot/master/huggingface/spiders/hf_profiles_urls.txt'
+        page = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
+        urls = page.text.splitlines()
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
 
@@ -35,7 +36,7 @@ class HfSpiderSpider(scrapy.Spider):
             'Кількість моделей': int(extract_with_xpath('//*[@id="models"]/h3/div[1]/span[2]/text()') or 0),
             'Кількість спейсів': int(extract_with_xpath( '//*[@id="spaces"]/h3/div[1]/span[2]/text()') or 0),
             'Кількість датасетів': int(extract_with_xpath('///*[@id="datasets"]/h3/div[1]/span[2]/text()') or 0),
-            'Кількість організацій': extract_with_xpath_length('/html/body/div/main/div/div/section[1]/div[8]/a'),
+            'Кількість організацій': extract_with_xpath_length('/html/body/div/main/div/div/section[1]/div[8]/a/img'),
             'Кількість людей, які підписані': int(extract_with_xpath('/html/body/div/main/div/div/section[1]/div[4]/button[1]/text()').split('\n')[0]),
             'Кількість людей на яких підписаний': int(extract_with_xpath('/html/body/div/main/div/div/section[1]/div[4]/button[2]/text()').split(' ')[0]),
         }
