@@ -111,11 +111,13 @@
 	<div class="SVELTE_HYDRATER contents" data-target="SSOBanner" data-props="{}"></div>
 	
 
-	<main class="flex flex-1 flex-col"><div class="SVELTE_HYDRATER contents" data-target="UserProfile" data-props="{&quot;blogPosts&quot;:[],&quot;canReadDatabase&quot;:false,&quot;canManageEntities&quot;:false,&quot;canImpersonate&quot;:false,&quot;canManageBilling&quot;:false,&quot;canPost&quot;:false,&quot;communityScore&quot;:0,&quot;collections&quot;:[],&quot;datasets&quot;:[],&quot;hasMoreActivities&quot;:false,&quot;models&quot;:[],&quot;numberLikes&quot;:0,&quot;papers&quot;:[],&quot;posts&quot;:[],&quot;totalPosts&quot;:0,&quot;spaces&quot;:[],&quot;u&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/6676bd0afc8ee3cbddd16dfb76526fb7.svg&quot;,&quot;isPro&quot;:false,&quot;fullname&quot;:&quot;Once_Upon_A_Hamster&quot;,&quot;user&quot;:&quot;lapkon&quot;,&quot;orgs&quot;:[],&quot;signup&quot;:{},&quot;isHf&quot;:false,&quot;isMod&quot;:false,&quot;type&quot;:&quot;user&quot;},&quot;upvotes&quot;:0,&quot;repoFilterModels&quot;:{&quot;sortKey&quot;:&quot;modified&quot;},&quot;repoFilterDatasets&quot;:{&quot;sortKey&quot;:&quot;modified&quot;},&quot;repoFilterSpaces&quot;:{&quot;sortKey&quot;:&quot;modified&quot;},&quot;numFollowers&quot;:1,&quot;numFollowing&quot;:36,&quot;isFollowing&quot;:false,&quot;isFollower&quot;:false,&quot;sampleFollowers&quot;:[{&quot;user&quot;:&quot;Hastagaras&quot;,&quot;fullname&quot;:&quot;ehehe&quot;,&quot;id&quot;:&quot;65100c25d3caed0dfe418123&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;avatarUrl&quot;:&quot;/avatars/c6f655bceae1f9e9e85fb1dc32530c1c.svg&quot;}],&quot;isWatching&quot;:false,&quot;hardwareItems&quot;:[]}">
+	<main class="flex flex-1 flex-col"><div class="SVELTE_HYDRATER contents" data-target="UserProfile" data-props="{&quot;blogPosts&quot;:[],&quot;canReadDatabase&quot;:false,&quot;canManageEntities&quot;:false,&quot;canImpersonate&quot;:false,&quot;canManageBilling&quot;:false,&quot;canPost&quot;:false,&quot;communityScore&quot;:0,&quot;collections&quot;:[{&quot;slug&quot;:&quot;lapkon/coding-llm-66ab35ca79272b3d8f811831&quot;,&quot;title&quot;:&quot;Coding LLM&quot;,&quot;lastUpdated&quot;:&quot;2024-08-01T08:30:58.226Z&quot;,&quot;owner&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/6676bd0afc8ee3cbddd16dfb76526fb7.svg&quot;,&quot;fullname&quot;:&quot;Once_Upon_A_Hamster&quot;,&quot;name&quot;:&quot;lapkon&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;items&quot;:[{&quot;_id&quot;:&quot;66ab35ca79272b3d8f811832&quot;,&quot;position&quot;:0,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;mradermacher&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/6b97d30ff0bdb5d5c633ba850af739cd.svg&quot;,&quot;fullname&quot;:&quot;Michael Radermacher&quot;,&quot;name&quot;:&quot;mradermacher&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:388,&quot;gated&quot;:false,&quot;id&quot;:&quot;mradermacher/Codestral-RAG-19B-Pruned-i1-GGUF&quot;,&quot;inference&quot;:&quot;pipeline-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-06-01T16:27:27.000Z&quot;,&quot;likes&quot;:0,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false},{&quot;_id&quot;:&quot;66ab443fbad2bffdbee293be&quot;,&quot;position&quot;:1,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;bartowski&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;https://cdn-avatars.huggingface.co/v1/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg&quot;,&quot;fullname&quot;:&quot;Bartowski&quot;,&quot;name&quot;:&quot;bartowski&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:16575,&quot;gated&quot;:false,&quot;id&quot;:&quot;bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF&quot;,&quot;inference&quot;:&quot;cold&quot;,&quot;lastModified&quot;:&quot;2024-06-20T17:12:43.000Z&quot;,&quot;likes&quot;:58,&quot;pipeline_tag&quot;:&quot;text-generation&quot;,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false,&quot;widgetOutputUrls&quot;:[]},{&quot;_id&quot;:&quot;66ab4461adfd339ee6fda36f&quot;,&quot;position&quot;:2,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;ZeroWw&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/54483699273ac58a4a6fe1fa4aab65fe.svg&quot;,&quot;fullname&quot;:&quot;Robert Sinclair&quot;,&quot;name&quot;:&quot;ZeroWw&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:380,&quot;gated&quot;:false,&quot;id&quot;:&quot;ZeroWw/DeepSeek-Coder-V2-Lite-Base-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-06-25T15:53:31.000Z&quot;,&quot;likes&quot;:0,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false},{&quot;_id&quot;:&quot;66ab45c6be4c62fe6acae1d5&quot;,&quot;position&quot;:3,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;bartowski&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;https://cdn-avatars.huggingface.co/v1/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg&quot;,&quot;fullname&quot;:&quot;Bartowski&quot;,&quot;name&quot;:&quot;bartowski&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:1667,&quot;gated&quot;:false,&quot;id&quot;:&quot;bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-06-18T18:40:18.000Z&quot;,&quot;likes&quot;:5,&quot;pipeline_tag&quot;:&quot;text-generation&quot;,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false,&quot;widgetOutputUrls&quot;:[]}],&quot;position&quot;:0,&quot;theme&quot;:&quot;pink&quot;,&quot;private&quot;:false,&quot;shareUrl&quot;:&quot;https://huggingface.co/collections/lapkon/coding-llm-66ab35ca79272b3d8f811831&quot;,&quot;upvotes&quot;:0,&quot;isUpvotedByUser&quot;:false},{&quot;slug&quot;:&quot;lapkon/rp-llm-66ab3659c5d367c983277672&quot;,&quot;title&quot;:&quot;RP LLM&quot;,&quot;lastUpdated&quot;:&quot;2024-08-01T09:08:43.481Z&quot;,&quot;owner&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/6676bd0afc8ee3cbddd16dfb76526fb7.svg&quot;,&quot;fullname&quot;:&quot;Once_Upon_A_Hamster&quot;,&quot;name&quot;:&quot;lapkon&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;items&quot;:[{&quot;_id&quot;:&quot;66ab3659c5d367c983277673&quot;,&quot;position&quot;:0,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;mradermacher&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/6b97d30ff0bdb5d5c633ba850af739cd.svg&quot;,&quot;fullname&quot;:&quot;Michael Radermacher&quot;,&quot;name&quot;:&quot;mradermacher&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:2781,&quot;gated&quot;:false,&quot;id&quot;:&quot;mradermacher/L3-8B-Lunar-Stheno-i1-GGUF&quot;,&quot;inference&quot;:&quot;pipeline-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-07-03T13:28:24.000Z&quot;,&quot;likes&quot;:8,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false},{&quot;_id&quot;:&quot;66ab41280f667da90f5f3f9f&quot;,&quot;position&quot;:2,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;DavidAU&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;https://cdn-avatars.huggingface.co/v1/production/uploads/65ea44635b64331c067d3751/yCim-7c3tm67o5wWP_6cE.jpeg&quot;,&quot;fullname&quot;:&quot;David Belton&quot;,&quot;name&quot;:&quot;DavidAU&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:852,&quot;gated&quot;:false,&quot;id&quot;:&quot;DavidAU/Daredevil-8B-abliterated-Ultra-NEO-V1-IMATRIX-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-07-07T10:58:02.000Z&quot;,&quot;likes&quot;:4,&quot;pipeline_tag&quot;:&quot;text-generation&quot;,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false,&quot;widgetOutputUrls&quot;:[]},{&quot;_id&quot;:&quot;66ab41709a28521d6efe195f&quot;,&quot;position&quot;:3,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;DavidAU&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;https://cdn-avatars.huggingface.co/v1/production/uploads/65ea44635b64331c067d3751/yCim-7c3tm67o5wWP_6cE.jpeg&quot;,&quot;fullname&quot;:&quot;David Belton&quot;,&quot;name&quot;:&quot;DavidAU&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:358,&quot;gated&quot;:false,&quot;id&quot;:&quot;DavidAU/Psyonic-Cetacean-Ultra-Quality-21.3B-22.5B-BRAINSTORM-5x-10x-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-07-30T00:27:30.000Z&quot;,&quot;likes&quot;:1,&quot;pipeline_tag&quot;:&quot;text-generation&quot;,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false,&quot;widgetOutputUrls&quot;:[]},{&quot;_id&quot;:&quot;66ab4187e7af78c137641c31&quot;,&quot;position&quot;:4,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;DavidAU&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;https://cdn-avatars.huggingface.co/v1/production/uploads/65ea44635b64331c067d3751/yCim-7c3tm67o5wWP_6cE.jpeg&quot;,&quot;fullname&quot;:&quot;David Belton&quot;,&quot;name&quot;:&quot;DavidAU&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:2141,&quot;gated&quot;:false,&quot;id&quot;:&quot;DavidAU/L3-SMB-Grand-STORY-F32-Ultra-Quality-16.5B-NEO-V2-IMATRIX-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-07-12T00:33:14.000Z&quot;,&quot;likes&quot;:2,&quot;pipeline_tag&quot;:&quot;text-generation&quot;,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false,&quot;widgetOutputUrls&quot;:[]}],&quot;position&quot;:1,&quot;theme&quot;:&quot;orange&quot;,&quot;private&quot;:false,&quot;shareUrl&quot;:&quot;https://huggingface.co/collections/lapkon/rp-llm-66ab3659c5d367c983277672&quot;,&quot;upvotes&quot;:0,&quot;isUpvotedByUser&quot;:false},{&quot;slug&quot;:&quot;lapkon/tiny-ones-66ab384f3884d7688c452cf8&quot;,&quot;title&quot;:&quot;Tiny ones&quot;,&quot;lastUpdated&quot;:&quot;2024-08-01T08:32:03.903Z&quot;,&quot;owner&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/6676bd0afc8ee3cbddd16dfb76526fb7.svg&quot;,&quot;fullname&quot;:&quot;Once_Upon_A_Hamster&quot;,&quot;name&quot;:&quot;lapkon&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;items&quot;:[{&quot;_id&quot;:&quot;66ab384f3884d7688c452cf9&quot;,&quot;position&quot;:0,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;tsunemoto&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;https://cdn-avatars.huggingface.co/v1/production/uploads/6556688a18320e0e3fa2f06a/MLOexALGMyInMndUU_mV7.jpeg&quot;,&quot;fullname&quot;:&quot;Tsune&quot;,&quot;name&quot;:&quot;tsunemoto&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:902,&quot;gated&quot;:false,&quot;id&quot;:&quot;tsunemoto/TinyDolphin-2.8-1.1b-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-01-22T00:43:52.000Z&quot;,&quot;likes&quot;:6,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false},{&quot;_id&quot;:&quot;66ab4803fc35e079a97347e3&quot;,&quot;position&quot;:2,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;bartowski&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;https://cdn-avatars.huggingface.co/v1/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg&quot;,&quot;fullname&quot;:&quot;Bartowski&quot;,&quot;name&quot;:&quot;bartowski&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:101,&quot;gated&quot;:false,&quot;id&quot;:&quot;bartowski/gemma-2-2b-it-abliterated-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-08-01T02:47:58.000Z&quot;,&quot;likes&quot;:3,&quot;pipeline_tag&quot;:&quot;text-generation&quot;,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false,&quot;widgetOutputUrls&quot;:[]}],&quot;position&quot;:2,&quot;theme&quot;:&quot;indigo&quot;,&quot;private&quot;:false,&quot;shareUrl&quot;:&quot;https://huggingface.co/collections/lapkon/tiny-ones-66ab384f3884d7688c452cf8&quot;,&quot;upvotes&quot;:0,&quot;isUpvotedByUser&quot;:false},{&quot;slug&quot;:&quot;lapkon/interesting-merges-for-general-use-66ab433e30c55e83b02288dd&quot;,&quot;title&quot;:&quot;Interesting merges for general use&quot;,&quot;lastUpdated&quot;:&quot;2024-08-01T08:57:12.357Z&quot;,&quot;owner&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/6676bd0afc8ee3cbddd16dfb76526fb7.svg&quot;,&quot;fullname&quot;:&quot;Once_Upon_A_Hamster&quot;,&quot;name&quot;:&quot;lapkon&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;items&quot;:[{&quot;_id&quot;:&quot;66ab433e30c55e83b02288de&quot;,&quot;position&quot;:0,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;mradermacher&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/6b97d30ff0bdb5d5c633ba850af739cd.svg&quot;,&quot;fullname&quot;:&quot;Michael Radermacher&quot;,&quot;name&quot;:&quot;mradermacher&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:246,&quot;gated&quot;:false,&quot;id&quot;:&quot;mradermacher/Gemma2-Nephilim-v3-9B-i1-GGUF&quot;,&quot;inference&quot;:&quot;pipeline-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-07-29T13:59:17.000Z&quot;,&quot;likes&quot;:1,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false},{&quot;_id&quot;:&quot;66ab4de8301605e45199a40f&quot;,&quot;position&quot;:1,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;DavidAU&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;https://cdn-avatars.huggingface.co/v1/production/uploads/65ea44635b64331c067d3751/yCim-7c3tm67o5wWP_6cE.jpeg&quot;,&quot;fullname&quot;:&quot;David Belton&quot;,&quot;name&quot;:&quot;DavidAU&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:2246,&quot;gated&quot;:false,&quot;id&quot;:&quot;DavidAU/Command-R-01-200xq-Ultra-NEO-V1-35B-IMATRIX-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-07-07T11:11:01.000Z&quot;,&quot;likes&quot;:6,&quot;pipeline_tag&quot;:&quot;text-generation&quot;,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false,&quot;widgetOutputUrls&quot;:[]}],&quot;position&quot;:3,&quot;theme&quot;:&quot;blue&quot;,&quot;private&quot;:false,&quot;shareUrl&quot;:&quot;https://huggingface.co/collections/lapkon/interesting-merges-for-general-use-66ab433e30c55e83b02288dd&quot;,&quot;upvotes&quot;:0,&quot;isUpvotedByUser&quot;:false},{&quot;slug&quot;:&quot;lapkon/general-use-llm-66ab451b08609915b3b7cbc4&quot;,&quot;title&quot;:&quot;General use LLM&quot;,&quot;lastUpdated&quot;:&quot;2024-08-01T08:59:55.183Z&quot;,&quot;owner&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/6676bd0afc8ee3cbddd16dfb76526fb7.svg&quot;,&quot;fullname&quot;:&quot;Once_Upon_A_Hamster&quot;,&quot;name&quot;:&quot;lapkon&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;items&quot;:[{&quot;_id&quot;:&quot;66ab451b08609915b3b7cbc5&quot;,&quot;position&quot;:0,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;ZeroWw&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/54483699273ac58a4a6fe1fa4aab65fe.svg&quot;,&quot;fullname&quot;:&quot;Robert Sinclair&quot;,&quot;name&quot;:&quot;ZeroWw&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:1354,&quot;gated&quot;:false,&quot;id&quot;:&quot;ZeroWw/Mistral-Nemo-Instruct-2407-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-07-25T10:46:48.000Z&quot;,&quot;likes&quot;:1,&quot;pipeline_tag&quot;:&quot;text-generation&quot;,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false,&quot;widgetOutputUrls&quot;:[]},{&quot;_id&quot;:&quot;66ab4541a576ade73a719cf6&quot;,&quot;position&quot;:1,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;ZeroWw&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/54483699273ac58a4a6fe1fa4aab65fe.svg&quot;,&quot;fullname&quot;:&quot;Robert Sinclair&quot;,&quot;name&quot;:&quot;ZeroWw&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:166,&quot;gated&quot;:false,&quot;id&quot;:&quot;ZeroWw/h2o-danube3-4b-chat-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-07-21T08:34:52.000Z&quot;,&quot;likes&quot;:0,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false},{&quot;_id&quot;:&quot;66ab466d08609915b3b850c6&quot;,&quot;position&quot;:2,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;QuantFactory&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;https://cdn-avatars.huggingface.co/v1/production/uploads/6382255fcae34727b9cc149e/ANRA_7hWosC6_2PS2cwtg.jpeg&quot;,&quot;fullname&quot;:&quot;Quant Factory&quot;,&quot;name&quot;:&quot;QuantFactory&quot;,&quot;type&quot;:&quot;org&quot;,&quot;isHf&quot;:false,&quot;isMod&quot;:false,&quot;isEnterprise&quot;:false},&quot;downloads&quot;:561,&quot;gated&quot;:false,&quot;id&quot;:&quot;QuantFactory/Arcee-Scribe-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-07-20T06:43:47.000Z&quot;,&quot;likes&quot;:1,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false},{&quot;_id&quot;:&quot;66ab47110f667da90f613ec6&quot;,&quot;position&quot;:3,&quot;type&quot;:&quot;model&quot;,&quot;author&quot;:&quot;ZeroWw&quot;,&quot;authorData&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/54483699273ac58a4a6fe1fa4aab65fe.svg&quot;,&quot;fullname&quot;:&quot;Robert Sinclair&quot;,&quot;name&quot;:&quot;ZeroWw&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;isHf&quot;:false,&quot;isMod&quot;:false},&quot;downloads&quot;:1376,&quot;gated&quot;:false,&quot;id&quot;:&quot;ZeroWw/internlm2_5-7b-chat-GGUF&quot;,&quot;inference&quot;:&quot;library-not-detected&quot;,&quot;lastModified&quot;:&quot;2024-07-03T14:44:33.000Z&quot;,&quot;likes&quot;:2,&quot;private&quot;:false,&quot;repoType&quot;:&quot;model&quot;,&quot;isLikedByUser&quot;:false}],&quot;position&quot;:4,&quot;theme&quot;:&quot;orange&quot;,&quot;private&quot;:false,&quot;shareUrl&quot;:&quot;https://huggingface.co/collections/lapkon/general-use-llm-66ab451b08609915b3b7cbc4&quot;,&quot;upvotes&quot;:0,&quot;isUpvotedByUser&quot;:false}],&quot;datasets&quot;:[],&quot;hasMoreActivities&quot;:false,&quot;models&quot;:[],&quot;numberLikes&quot;:0,&quot;papers&quot;:[],&quot;posts&quot;:[],&quot;totalPosts&quot;:0,&quot;spaces&quot;:[],&quot;u&quot;:{&quot;avatarUrl&quot;:&quot;/avatars/6676bd0afc8ee3cbddd16dfb76526fb7.svg&quot;,&quot;isPro&quot;:false,&quot;fullname&quot;:&quot;Once_Upon_A_Hamster&quot;,&quot;user&quot;:&quot;lapkon&quot;,&quot;orgs&quot;:[],&quot;signup&quot;:{},&quot;isHf&quot;:false,&quot;isMod&quot;:false,&quot;type&quot;:&quot;user&quot;},&quot;upvotes&quot;:0,&quot;repoFilterModels&quot;:{&quot;sortKey&quot;:&quot;modified&quot;},&quot;repoFilterDatasets&quot;:{&quot;sortKey&quot;:&quot;modified&quot;},&quot;repoFilterSpaces&quot;:{&quot;sortKey&quot;:&quot;modified&quot;},&quot;numFollowers&quot;:1,&quot;numFollowing&quot;:36,&quot;isFollowing&quot;:false,&quot;isFollower&quot;:false,&quot;sampleFollowers&quot;:[{&quot;user&quot;:&quot;Hastagaras&quot;,&quot;fullname&quot;:&quot;ehehe&quot;,&quot;id&quot;:&quot;65100c25d3caed0dfe418123&quot;,&quot;type&quot;:&quot;user&quot;,&quot;isPro&quot;:false,&quot;avatarUrl&quot;:&quot;/avatars/c6f655bceae1f9e9e85fb1dc32530c1c.svg&quot;}],&quot;isWatching&quot;:false,&quot;hardwareItems&quot;:[{&quot;sku&quot;:[&quot;GPU&quot;,&quot;NVIDIA&quot;,&quot;RTX 4060&quot;],&quot;mem&quot;:8,&quot;num&quot;:1},{&quot;sku&quot;:[&quot;CPU&quot;,&quot;AMD&quot;,&quot;Ryzen Zen4 7000 (Ryzen 5)&quot;],&quot;mem&quot;:32,&quot;num&quot;:1}]}">
 
 
 <div class="container relative flex flex-col md:grid md:space-y-0 w-full md:grid-cols-12 md:flex-1 md:grid-rows-full space-y-4 md:gap-6 "><section class="pt-8 border-gray-100 md:col-span-5 lg:col-span-4 xl:col-span-3 md:border-r border-gray-100 md:bg-gradient-to-l md:from-gray-50-to-white md:pr-6"><div class="relative mb-6 inline-flex flex-col text-sm"><img alt="Once_Upon_A_Hamster's picture" class="h-32 w-32 overflow-hidden rounded-full shadow-inner lg:h-48 lg:w-48" src="/avatars/6676bd0afc8ee3cbddd16dfb76526fb7.svg">
-			
+			<div class="shadow-alternate lg:-right-12 absolute -right-2/3 bottom-7 inline-flex divide-x rounded-full border text-xs leading-tight lg:bottom-10 lg:text-smd"><a title="Set my hardware" href="/settings/local-apps?vs=lapkon,15.67" class="btn flex items-center rounded-full border-0 px-2 py-[2px] text-sm focus:z-5 lg:px-2"><img alt="TFLOPS icon" class="mr-1 w-5" src="/front/assets/hardware/gpu.png">
+						<span class="mr-1">15.7</span>
+						<span class="text-gray-400">TFLOPS</span></a></div>
 			</div>
 		<h1 class="mb-0.5 flex items-center text-2xl font-bold"><span class="mr-3 leading-6">Once_Upon_A_Hamster</span>
 			
@@ -154,7 +156,298 @@
 	<section class="pt-8 border-gray-100 md:col-span-7 lg:col-span-8 xl:col-span-9 2xl:col-span-9">
 
 <div class="user-activity-feed">
+		<div class="mb-8 md:mt-12"><h3 class="flex items-center text-lg font-semibold capitalize mb-4"><div class="flex flex-1 items-center"><svg class="inline-block mr-2 text-gray-400" width="1em" height="1em" aria-hidden="true" focusable="false" role="img" viewBox="0 0 12 13" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><rect x="2" y="2.49902" width="8" height="3.76425" rx="1.16774" fill="currentColor" fill-opacity="0.4"></rect><rect x="6.21875" y="6.7334" width="3.78055" height="3.76425" rx="1.16774" fill="currentColor" fill-opacity="0.7"></rect><rect x="2" y="6.73438" width="3.78055" height="3.76425" rx="1.16774" fill="currentColor" fill-opacity="0.5"></rect></svg>
+			<span>Collections</span>
+			<span class="ml-3 font-normal text-gray-400">5</span></div>
+		<div class="flex space-x-3"></div></h3>
+	<div><div class="grid grid-cols-1 gap-5 sm:grid-cols-2">
+<article class="group/widget relative h-min overflow-hidden rounded-lg border border-gray-100 bg-gradient-to-b dark:border-gray-850 from-pink-500/5 dark:from-pink-500/10 to-transparent to-30% dark:to-70% ">
+		<a class="relative flex flex-col px-4 pb-3 pt-3 leading-tight" href="/collections/lapkon/coding-llm-66ab35ca79272b3d8f811831"><div class="mb-px truncate pr-6 text-[1.05rem] font-semibold text-pink-900 dark:text-pink-400 underline-offset-2 group-hover/widget:underline">Coding LLM</div>
+			
+			<div class="absolute right-2.5 top-3 flex h-5 w-5 items-center justify-center text-[.6rem] dark:border-gray-800 text-pink-900 dark:text-pink-400"><svg width="1em" height="1em" viewBox="0 0 7 9" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.56538 0.667892L5.50001 4.60251L1.94012 8.16241" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path></svg></div></a>
+	
+	<ul class="flex max-h-56 flex-col gap-y-1.5 overflow-hidden px-3.5 pb-2.5"><li class="collection-item group/collection relative " data-id="mradermacher/Codestral-RAG-19B-Pruned-i1-GGUF">
+	
+
+	
+
+	<article class="overview-card-wrapper group/repo  "><a class="flex items-center justify-between gap-4 p-2" href="/mradermacher/Codestral-RAG-19B-Pruned-i1-GGUF"><div class="w-full truncate"><header class="flex items-center mb-1" title="mradermacher/Codestral-RAG-19B-Pruned-i1-GGUF">
+		<img alt="" class="w-3 h-3 rounded-full mr-1.5 flex-none flex-none" src="/avatars/6b97d30ff0bdb5d5c633ba850af739cd.svg" crossorigin="anonymous">
+	
+				<h4 class="text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-indigo-600 text-sm">mradermacher/Codestral-RAG-19B-Pruned-i1-GGUF</h4>
+				</header>
+			<div class="mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400">
 		
+	
+				<span class="truncate">Updated
+					<time datetime="2024-06-01T16:27:27" title="Sat, 01 Jun 2024 16:27:27 GMT">Jun 1</time></span>
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-0.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
+					388
+				
+				
+
+				</div></div>
+		
+		
+	</a></article>
+
+	
+
+	</li>
+
+<li class="collection-item group/collection relative " data-id="bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF">
+	
+
+	
+
+	<article class="overview-card-wrapper group/repo  "><a class="flex items-center justify-between gap-4 p-2" href="/bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF"><div class="w-full truncate"><header class="flex items-center mb-1" title="bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF">
+		<img alt="" class="w-3 h-3 rounded-full mr-1.5 flex-none flex-none" src="https://cdn-avatars.huggingface.co/v1/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg" crossorigin="anonymous">
+	
+				<h4 class="text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-indigo-600 text-sm">bartowski/DeepSeek-Coder-V2-Lite-Instruct-GGUF</h4>
+				</header>
+			<div class="mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400">
+		<svg class="mr-1.5 text-[.8rem]" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" fill="currentColor" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 18 18"><path d="M16.2607 8.08202L14.468 6.28928C14.3063 6.12804 14.0873 6.03749 13.859 6.03749C13.6307 6.03749 13.4117 6.12804 13.25 6.28928L5.6375 13.904V16.9125H8.64607L16.2607 9.30002C16.422 9.13836 16.5125 8.91935 16.5125 8.69102C16.5125 8.4627 16.422 8.24369 16.2607 8.08202V8.08202ZM8.1953 15.825H6.725V14.3547L11.858 9.22118L13.3288 10.6915L8.1953 15.825ZM14.0982 9.92262L12.6279 8.45232L13.8606 7.21964L15.3309 8.68994L14.0982 9.92262Z"></path><path d="M6.18125 9.84373H7.26875V6.03748H8.9V4.94998H4.55V6.03748H6.18125V9.84373Z"></path><path d="M4.55 11.475H2.375V2.775H11.075V4.95H12.1625V2.775C12.1625 2.48658 12.0479 2.20997 11.844 2.00602C11.64 1.80208 11.3634 1.6875 11.075 1.6875H2.375C2.08658 1.6875 1.80997 1.80208 1.60602 2.00602C1.40207 2.20997 1.2875 2.48658 1.2875 2.775V11.475C1.2875 11.7634 1.40207 12.04 1.60602 12.244C1.80997 12.4479 2.08658 12.5625 2.375 12.5625H4.55V11.475Z"></path></svg>
+			Text Generation
+			<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+	
+				<span class="truncate">Updated
+					<time datetime="2024-06-20T17:12:43" title="Thu, 20 Jun 2024 17:12:43 GMT">Jun 20</time></span>
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-0.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
+					16.6k
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" fill="currentColor"><path d="M22.45,6a5.47,5.47,0,0,1,3.91,1.64,5.7,5.7,0,0,1,0,8L16,26.13,5.64,15.64a5.7,5.7,0,0,1,0-8,5.48,5.48,0,0,1,7.82,0L16,10.24l2.53-2.58A5.44,5.44,0,0,1,22.45,6m0-2a7.47,7.47,0,0,0-5.34,2.24L16,7.36,14.89,6.24a7.49,7.49,0,0,0-10.68,0,7.72,7.72,0,0,0,0,10.82L16,29,27.79,17.06a7.72,7.72,0,0,0,0-10.82A7.49,7.49,0,0,0,22.45,4Z"></path></svg>
+					58
+
+				</div></div>
+		
+		
+	</a></article>
+
+	
+
+	</li>
+
+<li class="collection-item group/collection relative " data-id="ZeroWw/DeepSeek-Coder-V2-Lite-Base-GGUF">
+	
+
+	
+
+	<article class="overview-card-wrapper group/repo  "><a class="flex items-center justify-between gap-4 p-2" href="/ZeroWw/DeepSeek-Coder-V2-Lite-Base-GGUF"><div class="w-full truncate"><header class="flex items-center mb-1" title="ZeroWw/DeepSeek-Coder-V2-Lite-Base-GGUF">
+		<img alt="" class="w-3 h-3 rounded-full mr-1.5 flex-none flex-none" src="/avatars/54483699273ac58a4a6fe1fa4aab65fe.svg" crossorigin="anonymous">
+	
+				<h4 class="text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-indigo-600 text-sm">ZeroWw/DeepSeek-Coder-V2-Lite-Base-GGUF</h4>
+				</header>
+			<div class="mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400">
+		
+	
+				<span class="truncate">Updated
+					<time datetime="2024-06-25T15:53:31" title="Tue, 25 Jun 2024 15:53:31 GMT">Jun 25</time></span>
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-0.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
+					380
+				
+				
+
+				</div></div>
+		
+		
+	</a></article>
+
+	
+
+	</li>
+
+<li class="collection-item group/collection relative " data-id="bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF">
+	
+
+	
+
+	<article class="overview-card-wrapper group/repo  "><a class="flex items-center justify-between gap-4 p-2" href="/bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF"><div class="w-full truncate"><header class="flex items-center mb-1" title="bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF">
+		<img alt="" class="w-3 h-3 rounded-full mr-1.5 flex-none flex-none" src="https://cdn-avatars.huggingface.co/v1/production/uploads/6435718aaaef013d1aec3b8b/XKf-8MA47tjVAM6SCX0MP.jpeg" crossorigin="anonymous">
+	
+				<h4 class="text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-indigo-600 text-sm">bartowski/DeepSeek-Coder-V2-Lite-Base-GGUF</h4>
+				</header>
+			<div class="mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400">
+		<svg class="mr-1.5 text-[.8rem]" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" fill="currentColor" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 18 18"><path d="M16.2607 8.08202L14.468 6.28928C14.3063 6.12804 14.0873 6.03749 13.859 6.03749C13.6307 6.03749 13.4117 6.12804 13.25 6.28928L5.6375 13.904V16.9125H8.64607L16.2607 9.30002C16.422 9.13836 16.5125 8.91935 16.5125 8.69102C16.5125 8.4627 16.422 8.24369 16.2607 8.08202V8.08202ZM8.1953 15.825H6.725V14.3547L11.858 9.22118L13.3288 10.6915L8.1953 15.825ZM14.0982 9.92262L12.6279 8.45232L13.8606 7.21964L15.3309 8.68994L14.0982 9.92262Z"></path><path d="M6.18125 9.84373H7.26875V6.03748H8.9V4.94998H4.55V6.03748H6.18125V9.84373Z"></path><path d="M4.55 11.475H2.375V2.775H11.075V4.95H12.1625V2.775C12.1625 2.48658 12.0479 2.20997 11.844 2.00602C11.64 1.80208 11.3634 1.6875 11.075 1.6875H2.375C2.08658 1.6875 1.80997 1.80208 1.60602 2.00602C1.40207 2.20997 1.2875 2.48658 1.2875 2.775V11.475C1.2875 11.7634 1.40207 12.04 1.60602 12.244C1.80997 12.4479 2.08658 12.5625 2.375 12.5625H4.55V11.475Z"></path></svg>
+			Text Generation
+			<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+	
+				<span class="truncate">Updated
+					<time datetime="2024-06-18T18:40:18" title="Tue, 18 Jun 2024 18:40:18 GMT">Jun 18</time></span>
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-0.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
+					1.67k
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" fill="currentColor"><path d="M22.45,6a5.47,5.47,0,0,1,3.91,1.64,5.7,5.7,0,0,1,0,8L16,26.13,5.64,15.64a5.7,5.7,0,0,1,0-8,5.48,5.48,0,0,1,7.82,0L16,10.24l2.53-2.58A5.44,5.44,0,0,1,22.45,6m0-2a7.47,7.47,0,0,0-5.34,2.24L16,7.36,14.89,6.24a7.49,7.49,0,0,0-10.68,0,7.72,7.72,0,0,0,0,10.82L16,29,27.79,17.06a7.72,7.72,0,0,0,0-10.82A7.49,7.49,0,0,0,22.45,4Z"></path></svg>
+					5
+
+				</div></div>
+		
+		
+	</a></article>
+
+	
+
+	</li>
+
+</ul></article>
+<article class="group/widget relative h-min overflow-hidden rounded-lg border border-gray-100 bg-gradient-to-b dark:border-gray-850 from-orange-500/5 dark:from-orange-500/10 to-transparent to-30% dark:to-70% ">
+		<a class="relative flex flex-col px-4 pb-3 pt-3 leading-tight" href="/collections/lapkon/rp-llm-66ab3659c5d367c983277672"><div class="mb-px truncate pr-6 text-[1.05rem] font-semibold text-orange-900 dark:text-orange-400 underline-offset-2 group-hover/widget:underline">RP LLM</div>
+			
+			<div class="absolute right-2.5 top-3 flex h-5 w-5 items-center justify-center text-[.6rem] dark:border-gray-800 text-orange-900 dark:text-orange-400"><svg width="1em" height="1em" viewBox="0 0 7 9" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1.56538 0.667892L5.50001 4.60251L1.94012 8.16241" stroke="currentColor" stroke-width="1.2" stroke-linecap="round"></path></svg></div></a>
+	
+	<ul class="flex max-h-56 flex-col gap-y-1.5 overflow-hidden px-3.5 pb-2.5"><li class="collection-item group/collection relative " data-id="mradermacher/L3-8B-Lunar-Stheno-i1-GGUF">
+	
+
+	
+
+	<article class="overview-card-wrapper group/repo  "><a class="flex items-center justify-between gap-4 p-2" href="/mradermacher/L3-8B-Lunar-Stheno-i1-GGUF"><div class="w-full truncate"><header class="flex items-center mb-1" title="mradermacher/L3-8B-Lunar-Stheno-i1-GGUF">
+		<img alt="" class="w-3 h-3 rounded-full mr-1.5 flex-none flex-none" src="/avatars/6b97d30ff0bdb5d5c633ba850af739cd.svg" crossorigin="anonymous">
+	
+				<h4 class="text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-indigo-600 text-sm">mradermacher/L3-8B-Lunar-Stheno-i1-GGUF</h4>
+				</header>
+			<div class="mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400">
+		
+	
+				<span class="truncate">Updated
+					<time datetime="2024-07-03T13:28:24" title="Wed, 03 Jul 2024 13:28:24 GMT">29 days ago</time></span>
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-0.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
+					2.78k
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" fill="currentColor"><path d="M22.45,6a5.47,5.47,0,0,1,3.91,1.64,5.7,5.7,0,0,1,0,8L16,26.13,5.64,15.64a5.7,5.7,0,0,1,0-8,5.48,5.48,0,0,1,7.82,0L16,10.24l2.53-2.58A5.44,5.44,0,0,1,22.45,6m0-2a7.47,7.47,0,0,0-5.34,2.24L16,7.36,14.89,6.24a7.49,7.49,0,0,0-10.68,0,7.72,7.72,0,0,0,0,10.82L16,29,27.79,17.06a7.72,7.72,0,0,0,0-10.82A7.49,7.49,0,0,0,22.45,4Z"></path></svg>
+					8
+
+				</div></div>
+		
+		
+	</a></article>
+
+	
+
+	</li>
+
+<li class="collection-item group/collection relative " data-id="DavidAU/Daredevil-8B-abliterated-Ultra-NEO-V1-IMATRIX-GGUF">
+	
+
+	
+
+	<article class="overview-card-wrapper group/repo  "><a class="flex items-center justify-between gap-4 p-2" href="/DavidAU/Daredevil-8B-abliterated-Ultra-NEO-V1-IMATRIX-GGUF"><div class="w-full truncate"><header class="flex items-center mb-1" title="DavidAU/Daredevil-8B-abliterated-Ultra-NEO-V1-IMATRIX-GGUF">
+		<img alt="" class="w-3 h-3 rounded-full mr-1.5 flex-none flex-none" src="https://cdn-avatars.huggingface.co/v1/production/uploads/65ea44635b64331c067d3751/yCim-7c3tm67o5wWP_6cE.jpeg" crossorigin="anonymous">
+	
+				<h4 class="text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-indigo-600 text-sm">DavidAU/Daredevil-8B-abliterated-Ultra-NEO-V1-IMATRIX-GGUF</h4>
+				</header>
+			<div class="mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400">
+		<svg class="mr-1.5 text-[.8rem]" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" fill="currentColor" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 18 18"><path d="M16.2607 8.08202L14.468 6.28928C14.3063 6.12804 14.0873 6.03749 13.859 6.03749C13.6307 6.03749 13.4117 6.12804 13.25 6.28928L5.6375 13.904V16.9125H8.64607L16.2607 9.30002C16.422 9.13836 16.5125 8.91935 16.5125 8.69102C16.5125 8.4627 16.422 8.24369 16.2607 8.08202V8.08202ZM8.1953 15.825H6.725V14.3547L11.858 9.22118L13.3288 10.6915L8.1953 15.825ZM14.0982 9.92262L12.6279 8.45232L13.8606 7.21964L15.3309 8.68994L14.0982 9.92262Z"></path><path d="M6.18125 9.84373H7.26875V6.03748H8.9V4.94998H4.55V6.03748H6.18125V9.84373Z"></path><path d="M4.55 11.475H2.375V2.775H11.075V4.95H12.1625V2.775C12.1625 2.48658 12.0479 2.20997 11.844 2.00602C11.64 1.80208 11.3634 1.6875 11.075 1.6875H2.375C2.08658 1.6875 1.80997 1.80208 1.60602 2.00602C1.40207 2.20997 1.2875 2.48658 1.2875 2.775V11.475C1.2875 11.7634 1.40207 12.04 1.60602 12.244C1.80997 12.4479 2.08658 12.5625 2.375 12.5625H4.55V11.475Z"></path></svg>
+			Text Generation
+			<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+	
+				<span class="truncate">Updated
+					<time datetime="2024-07-07T10:58:02" title="Sun, 07 Jul 2024 10:58:02 GMT">25 days ago</time></span>
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-0.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
+					852
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" fill="currentColor"><path d="M22.45,6a5.47,5.47,0,0,1,3.91,1.64,5.7,5.7,0,0,1,0,8L16,26.13,5.64,15.64a5.7,5.7,0,0,1,0-8,5.48,5.48,0,0,1,7.82,0L16,10.24l2.53-2.58A5.44,5.44,0,0,1,22.45,6m0-2a7.47,7.47,0,0,0-5.34,2.24L16,7.36,14.89,6.24a7.49,7.49,0,0,0-10.68,0,7.72,7.72,0,0,0,0,10.82L16,29,27.79,17.06a7.72,7.72,0,0,0,0-10.82A7.49,7.49,0,0,0,22.45,4Z"></path></svg>
+					4
+
+				</div></div>
+		
+		
+	</a></article>
+
+	
+
+	</li>
+
+<li class="collection-item group/collection relative " data-id="DavidAU/Psyonic-Cetacean-Ultra-Quality-21.3B-22.5B-BRAINSTORM-5x-10x-GGUF">
+	
+
+	
+
+	<article class="overview-card-wrapper group/repo  "><a class="flex items-center justify-between gap-4 p-2" href="/DavidAU/Psyonic-Cetacean-Ultra-Quality-21.3B-22.5B-BRAINSTORM-5x-10x-GGUF"><div class="w-full truncate"><header class="flex items-center mb-1" title="DavidAU/Psyonic-Cetacean-Ultra-Quality-21.3B-22.5B-BRAINSTORM-5x-10x-GGUF">
+		<img alt="" class="w-3 h-3 rounded-full mr-1.5 flex-none flex-none" src="https://cdn-avatars.huggingface.co/v1/production/uploads/65ea44635b64331c067d3751/yCim-7c3tm67o5wWP_6cE.jpeg" crossorigin="anonymous">
+	
+				<h4 class="text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-indigo-600 text-sm">DavidAU/Psyonic-Cetacean-Ultra-Quality-21.3B-22.5B-BRAINSTORM-5x-10x-GGUF</h4>
+				</header>
+			<div class="mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400">
+		<svg class="mr-1.5 text-[.8rem]" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" fill="currentColor" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 18 18"><path d="M16.2607 8.08202L14.468 6.28928C14.3063 6.12804 14.0873 6.03749 13.859 6.03749C13.6307 6.03749 13.4117 6.12804 13.25 6.28928L5.6375 13.904V16.9125H8.64607L16.2607 9.30002C16.422 9.13836 16.5125 8.91935 16.5125 8.69102C16.5125 8.4627 16.422 8.24369 16.2607 8.08202V8.08202ZM8.1953 15.825H6.725V14.3547L11.858 9.22118L13.3288 10.6915L8.1953 15.825ZM14.0982 9.92262L12.6279 8.45232L13.8606 7.21964L15.3309 8.68994L14.0982 9.92262Z"></path><path d="M6.18125 9.84373H7.26875V6.03748H8.9V4.94998H4.55V6.03748H6.18125V9.84373Z"></path><path d="M4.55 11.475H2.375V2.775H11.075V4.95H12.1625V2.775C12.1625 2.48658 12.0479 2.20997 11.844 2.00602C11.64 1.80208 11.3634 1.6875 11.075 1.6875H2.375C2.08658 1.6875 1.80997 1.80208 1.60602 2.00602C1.40207 2.20997 1.2875 2.48658 1.2875 2.775V11.475C1.2875 11.7634 1.40207 12.04 1.60602 12.244C1.80997 12.4479 2.08658 12.5625 2.375 12.5625H4.55V11.475Z"></path></svg>
+			Text Generation
+			<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+	
+				<span class="truncate">Updated
+					<time datetime="2024-07-30T00:27:30" title="Tue, 30 Jul 2024 00:27:30 GMT">2 days ago</time></span>
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-0.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
+					358
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" fill="currentColor"><path d="M22.45,6a5.47,5.47,0,0,1,3.91,1.64,5.7,5.7,0,0,1,0,8L16,26.13,5.64,15.64a5.7,5.7,0,0,1,0-8,5.48,5.48,0,0,1,7.82,0L16,10.24l2.53-2.58A5.44,5.44,0,0,1,22.45,6m0-2a7.47,7.47,0,0,0-5.34,2.24L16,7.36,14.89,6.24a7.49,7.49,0,0,0-10.68,0,7.72,7.72,0,0,0,0,10.82L16,29,27.79,17.06a7.72,7.72,0,0,0,0-10.82A7.49,7.49,0,0,0,22.45,4Z"></path></svg>
+					1
+
+				</div></div>
+		
+		
+	</a></article>
+
+	
+
+	</li>
+
+<li class="collection-item group/collection relative " data-id="DavidAU/L3-SMB-Grand-STORY-F32-Ultra-Quality-16.5B-NEO-V2-IMATRIX-GGUF">
+	
+
+	
+
+	<article class="overview-card-wrapper group/repo  "><a class="flex items-center justify-between gap-4 p-2" href="/DavidAU/L3-SMB-Grand-STORY-F32-Ultra-Quality-16.5B-NEO-V2-IMATRIX-GGUF"><div class="w-full truncate"><header class="flex items-center mb-1" title="DavidAU/L3-SMB-Grand-STORY-F32-Ultra-Quality-16.5B-NEO-V2-IMATRIX-GGUF">
+		<img alt="" class="w-3 h-3 rounded-full mr-1.5 flex-none flex-none" src="https://cdn-avatars.huggingface.co/v1/production/uploads/65ea44635b64331c067d3751/yCim-7c3tm67o5wWP_6cE.jpeg" crossorigin="anonymous">
+	
+				<h4 class="text-md truncate font-mono text-black dark:group-hover/repo:text-yellow-500 group-hover/repo:text-indigo-600 text-sm">DavidAU/L3-SMB-Grand-STORY-F32-Ultra-Quality-16.5B-NEO-V2-IMATRIX-GGUF</h4>
+				</header>
+			<div class="mr-1 flex items-center overflow-hidden whitespace-nowrap text-sm leading-tight text-gray-400">
+		<svg class="mr-1.5 text-[.8rem]" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" fill="currentColor" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 18 18"><path d="M16.2607 8.08202L14.468 6.28928C14.3063 6.12804 14.0873 6.03749 13.859 6.03749C13.6307 6.03749 13.4117 6.12804 13.25 6.28928L5.6375 13.904V16.9125H8.64607L16.2607 9.30002C16.422 9.13836 16.5125 8.91935 16.5125 8.69102C16.5125 8.4627 16.422 8.24369 16.2607 8.08202V8.08202ZM8.1953 15.825H6.725V14.3547L11.858 9.22118L13.3288 10.6915L8.1953 15.825ZM14.0982 9.92262L12.6279 8.45232L13.8606 7.21964L15.3309 8.68994L14.0982 9.92262Z"></path><path d="M6.18125 9.84373H7.26875V6.03748H8.9V4.94998H4.55V6.03748H6.18125V9.84373Z"></path><path d="M4.55 11.475H2.375V2.775H11.075V4.95H12.1625V2.775C12.1625 2.48658 12.0479 2.20997 11.844 2.00602C11.64 1.80208 11.3634 1.6875 11.075 1.6875H2.375C2.08658 1.6875 1.80997 1.80208 1.60602 2.00602C1.40207 2.20997 1.2875 2.48658 1.2875 2.775V11.475C1.2875 11.7634 1.40207 12.04 1.60602 12.244C1.80997 12.4479 2.08658 12.5625 2.375 12.5625H4.55V11.475Z"></path></svg>
+			Text Generation
+			<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+	
+				<span class="truncate">Updated
+					<time datetime="2024-07-12T00:33:14" title="Fri, 12 Jul 2024 00:33:14 GMT">20 days ago</time></span>
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-0.5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" viewBox="0 0 32 32"><path fill="currentColor" d="M26 24v4H6v-4H4v4a2 2 0 0 0 2 2h20a2 2 0 0 0 2-2v-4zm0-10l-1.41-1.41L17 20.17V2h-2v18.17l-7.59-7.58L6 14l10 10l10-10z"></path></svg>
+					2.14k
+				
+				<span class="px-1.5 text-gray-300 dark:text-gray-500">• </span>
+					<svg class="flex-none w-3 text-gray-400 mr-1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" focusable="false" role="img" width="1em" height="1em" preserveAspectRatio="xMidYMid meet" viewBox="0 0 32 32" fill="currentColor"><path d="M22.45,6a5.47,5.47,0,0,1,3.91,1.64,5.7,5.7,0,0,1,0,8L16,26.13,5.64,15.64a5.7,5.7,0,0,1,0-8,5.48,5.48,0,0,1,7.82,0L16,10.24l2.53-2.58A5.44,5.44,0,0,1,22.45,6m0-2a7.47,7.47,0,0,0-5.34,2.24L16,7.36,14.89,6.24a7.49,7.49,0,0,0-10.68,0,7.72,7.72,0,0,0,0,10.82L16,29,27.79,17.06a7.72,7.72,0,0,0,0-10.82A7.49,7.49,0,0,0,22.45,4Z"></path></svg>
+					2
+
+				</div></div>
+		
+		
+	</a></article>
+
+	
+
+	</li>
+
+</ul></article></div>
+		<div class="mt-4"><div class="flex items-center"><div class="flex-1 border-b border-dashed"></div>
+					<button class="mx-2 flex h-8 flex-none items-center rounded-lg px-2.5 font-medium text-gray-800 hover:bg-gray-100 hover:text-gray-900 dark:hover:bg-gray-800 dark:hover:text-gray-200"><svg class="text-xs mr-2 -mb-0.5" width="1em" height="1em" viewBox="0 0 12 7" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M1 1L6 6L11 1" stroke="currentColor"></path></svg>
+						Expand 5 collections
+					</button>
+					<div class="flex-1 border-b border-dashed"></div></div></div></div></div>
 		
 		
 		
